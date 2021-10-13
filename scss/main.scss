@@ -1,7 +1,8 @@
 @import "config";
+@import "home";
 
 body {
-    background: $primary-color;
+    background-color: $primary-color;
     color: #fff;
     height: 100vh;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
